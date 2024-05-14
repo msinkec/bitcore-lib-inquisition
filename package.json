@@ -1,6 +1,6 @@
 {
   "name": "bitcore-lib-inquisition",
-  "version": "10.0.28",
+  "version": "10.0.29-dev.1",
   "description": "A pure and powerful JavaScript Bitcoin library.",
   "author": "BitPay <dev@bitpay.com>, msinkec <mihael@scrypt.io>",
   "main": "index.js",
